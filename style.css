@@ -1,5 +1,9 @@
+.body {
+    overflow-y: hidden;
+}
 
-.c{
+.c {
     background-color: blueviolet;
     padding-top: 10vh;
+
 }

@@ -1,6 +1,7 @@
-   /*  overflow-y: hidden; */
-/*     overflow-x: hidden; */
-
+body {
+   overflow-y: hidden; 
+    overflow-x: hidden;
+}
 
 .c {
     background-color: blueviolet;
